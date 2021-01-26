@@ -12,7 +12,9 @@ HTML 기본 학
 3. HTML5의 차이점
 
 -1. Hyper Text Markup Langauge(HTML) 정의
+
 -2. HTML 역사
+
 -3. HTML5의 차이점
 
 -----------------------------------
