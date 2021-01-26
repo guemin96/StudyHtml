@@ -9,8 +9,6 @@ HTML 기본 학습
 개요에 대해서 학습합니다
 1. Hyper Text Markup Langauge(HTML) 정의
 2. HTML 역사
-  1. 되나?
-  2. 이게?
 3. HTML5의 차이점
 
 - Hyper Text Markup Langauge(HTML) 정의
@@ -21,10 +19,10 @@ HTML 기본 학습
 - [ ] 복습하기
 
 * [X] 학습하기
-* [ ] 복습하기
+* [ ] __복습하기__
 
-+ [X] 학습하기
-+ [ ] 복습하기
++ [X] _학습하기_
++ [ ] ~~복습하기~~
 
 
 
