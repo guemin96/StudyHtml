@@ -20,7 +20,7 @@ HTML 기본 학습
 ## CSS3
 ~css~ 기본 학습
 
->CSS is Cascading Style sheets.
+>CSS is Cascading Style Sheets.
 
 -----------------------------------
 
