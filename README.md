@@ -43,8 +43,8 @@ namespace HelloworldApp
  
 참조링크
 ----------
-[naver](www.naver.com)
-
+- [naver](www.naver.com "네이버")
+- [Google](www.google.com "구글")
 
 머리글
 ===
