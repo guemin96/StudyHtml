@@ -3,7 +3,7 @@
 HTML5 CSS, JS 학습용 리포지토리
 
 ## HTML5 
-HTML 기본 학
+HTML 기본 학습
 
 ###### HTML이란?
 개요에 대해서 학습합니다
@@ -12,8 +12,8 @@ HTML 기본 학
 3. HTML5의 차이점
 
 - Hyper Text Markup Langauge(HTML) 정의
-- HTML 역사
-- HTML5의 차이점
+  - HTML 역사
+  - HTML5의 차이점
 
 -----------------------------------
 
