@@ -15,6 +15,8 @@ HTML 기본 학습
   - _HTML_ _역사_
   - __HTML5의 ~~차이점~~__
 
+- [x]학습하기
+- []복습하기
 
 ```C#
 using System.IO;
@@ -28,6 +30,8 @@ namespace HelloworldApp
     }
   }
  ```
+ 
+ 
 참조링크
 ----------
 [naver](www.naver.com)
