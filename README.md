@@ -8,10 +8,10 @@ HTML 기본 학습
 ###### HTML이란?
 개요에 대해서 학습합니다
 1. Hyper Text Markup Langauge(HTML) 정의
-1. HTML 역사
-  - 하위목록1
-  - 하위목록2
-1. HTML5의 차이점
+2. HTML 역사
+  1. 되나?
+  2. 이게?
+3. HTML5의 차이점
 
 - Hyper Text Markup Langauge(HTML) 정의
   - _HTML_ _역사_
