@@ -1,17 +1,20 @@
 # HTML 학습 리포지토리
 HTML5 CSS, JS 학습용 리포지토리
 
-##HTML5 
+## HTML5 
 HTML 기본 학습
 
-##CSS3
+### HTML이란?
+개요에 대해서 학습합니다
+
+## CSS3
 css 기본 학습
 
-##Javascript
+## Javascript
 Javascript 기본 학습
 
-##Responsibe Web
+## Responsibe Web
 응답형 웹 기본 학습
 
-##Project
+## Project
 전체 통합 프로그램
