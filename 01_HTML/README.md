@@ -107,8 +107,9 @@
 
 
 ## HTML5 입력 태그
-```
+
 ### 텍스트, 파일 ,체크박스, 라디오버튼, 보이지 않는 양식, 버튼, 선택스크롤 코드
+```
 <form>
         <!-- 사용자가 입력하는 양식 -->
         <input type="text" name="userid" value="guemin96"><br>
@@ -148,6 +149,62 @@
     </form>
 
 
+```
+### div 태그와 span 태그(공간분할 태그!)
+<!-- div는 세로로 span은 가로로>
+```
+<body>
+    <div>div태그 - 블록형식</div>
+    <div>div태그 - 블록형식</div>
+    <div>div태그 - 블록형식</div>
+    <div>div태그 - 블록형식</div>
+    <div>div태그 - 블록형식</div>
+
+    <span>span태그 - 인라인형식</span>
+    <span>span태그 - 인라인형식</span>
+    <span>span태그 - 인라인형식</span>
+    <span>span태그 - 인라인형식</span>
+    <span>span태그 - 인라인형식</span>
+    <span>span태그 - 인라인형식</span>
+</body>
+
+```
+
+### 시멘틱 태그
+<!-- header,nav,aside, section,article,footer>
+
+```
+<header>
+        <h1>공간분할 테스트</h1>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href ="#">메뉴1</a></li>
+                <a href ="#">메뉴2</a></li>
+                <a href ="#">메뉴3</a></li>
+                <a href ="#">메뉴4</a></li>
+                <a href ="#">메뉴5</a></li>
+            </li>
+        </ul>
+    </nav>
+    <section>
+        <article></article>
+        <h2>Lorem ipsum dolor sit amet </h2>
+        <p>consectetur adipisicing elit. Similique sed ea inventore at placeat necessitatibus ut temporibus! Cum non voluptate facilis, qui id modi culpa quibusdam, quasi doloribus earum atque?</p>
+
+        <article></article>
+        <h2>Lorem ipsum dolor sit amet </h2>
+        <p>consectetur adipisicing elit. Similique sed ea inventore at placeat necessitatibus ut temporibus! Cum non voluptate facilis, qui id modi culpa quibusdam, quasi doloribus earum atque?</p>
+
+        <article></article>
+        <h2>Lorem ipsum dolor sit amet </h2>
+        <p>consectetur adipisicing elit. Similique sed ea inventore at placeat necessitatibus ut temporibus! Cum non voluptate facilis, qui id modi culpa quibusdam, quasi doloribus earum atque?</p>
+
+    </section>
+    <footer>
+        <address>부산 해운대구 좌동 삼성아파트</address>
+    </footer>
 ```
 
 
