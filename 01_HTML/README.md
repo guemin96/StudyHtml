@@ -129,7 +129,8 @@
 
 ```
 ### div 태그와 span 태그(공간분할 태그!)
-<!-- div는 세로로 span은 가로로>
+
+<!-- div는 세로로 span은 가로로-->
 
 ```
 <body>
@@ -144,7 +145,7 @@
 ```
 
 ### 시멘틱 태그
-<!-- header,nav,aside, section,article,footer>
+<!-- header,nav,aside, section,article,footer-->
 
 ```
 <header>
