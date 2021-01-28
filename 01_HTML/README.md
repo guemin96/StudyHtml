@@ -7,12 +7,6 @@
 
 ### 제목 태그
 ```
-<!Doctype html>
-<html>
-    <head>
-        <title>HTML5+CSS Text</title>
-
-    </head>
     <body>
         <h1>제목 글자 태그1</h1>
         <h2>제목 글자 태그2</h2>
@@ -22,18 +16,9 @@
         <h6>제목 글자 태그6</h6>
     </body>
 
-</html>
-
 ```
 ### 이미지, 음악 태그
 ```
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
-</head>
 <body>
     <img src="media/image.jpg" 
     alt="우리의 추억"
@@ -48,13 +33,6 @@
 
 ### 테이블 태그
 ```
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
-</head>
 <body>
     <table border="1">
         <thead>
@@ -157,13 +135,7 @@
 <body>
     <div>div태그 - 블록형식</div>
     <div>div태그 - 블록형식</div>
-    <div>div태그 - 블록형식</div>
-    <div>div태그 - 블록형식</div>
-    <div>div태그 - 블록형식</div>
 
-    <span>span태그 - 인라인형식</span>
-    <span>span태그 - 인라인형식</span>
-    <span>span태그 - 인라인형식</span>
     <span>span태그 - 인라인형식</span>
     <span>span태그 - 인라인형식</span>
     <span>span태그 - 인라인형식</span>
