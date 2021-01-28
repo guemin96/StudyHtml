@@ -107,4 +107,49 @@
 
 
 ## HTML5 입력 태그
+```
+### 텍스트, 파일 ,체크박스, 라디오버튼, 보이지 않는 양식, 버튼, 선택스크롤 코드
+<form>
+        <!-- 사용자가 입력하는 양식 -->
+        <input type="text" name="userid" value="guemin96"><br>
+        <input type="password" name="password" value="12345"><br>
+        <input type="file" name="attach_file" ><br>
+        <input type="checkbox" name="chk_hobby_swim" value="수영">수영<br>
+        <input type="checkbox" name="chk_hobby_maraton" value="마라톤">마라톤<br>
+        <input type="radio" name="rdo_gender" value="M">남자
+        <input type="radio" name="rdo_gender" value="F">여자
+        <input type="radio" name="rdo_gender" value="G">중성<br>
+        
+        
+        <input type="datetime" name="dt_today" value="2021-01-28"><br>
+
+        <!-- 보이지 않는 양식 -->
+        <input type="hidden" name="hdn_temp_val" value="2323232323"><br>
+
+
+        <!-- 버튼 -->
+        <input type="button" name="btn_normal" value="click"><br>
+        <input type="reset" name="btn_reset" value="reset"><br>
+        <input type="submit" name="btn_reset" value="제출"><br>
+        
+        <!-- 기타 -->
+        <input type="image" name="" src="http://placehold.it/400x250"><br>
+        
+        <!-- 선택컨트롤(콤보박스/드랍다운) -->
+        <select>
+            <option>김밥</option>
+            <option>떡볶이</option>
+            <option>오뎅</option>
+            <option>순대</option>
+            <option>튀김</option>
+        </select>
+
+
+    </form>
+
+
+```
+
+
+
 [이전](https://github.com/guemin96/StudyHtml/tree/main/01_HTML)
