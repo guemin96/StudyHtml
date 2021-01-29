@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+        .box {
+            width: 100px;
+            height: 100px;
+            position: absolute;
+
+        }
+
+        /* .box:nth-child(1){background-color: rgba(255, 0, 0,0.5);}
+        .box:nth-child(2){background-color: rgba(0, 255, 0,0.5);}
+        .box:nth-child(3){background-color: rgba(0, 0, 255,0.5);} */
+        .box:nth-child(1) {
+            background-color: rgb(255, 0, 0);
+            left: 10px;
+            top: 10px;
+            z-index: 100;
+        }
+
+        .box:nth-child(2) {
+            background-color: rgb(0, 255, 0);
+            left: 35px;
+            top: 35px;
+            z-index: 99;
+        }
+
+        .box:nth-child(3) {
+            background-color: rgb(0, 0, 255);
+            left: 60px;
+            top: 60px;
+            z-index: 98;
+        }
+
+        .text {position: absolute;
+        }
+        .text:nth-child(1)
+        {
+            z-index: 101;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <h1 class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic maiores vitae tempora eius fuga
+        dolorum aspernatur
+        quis illum quia veritatis facere voluptates, quaerat quibusdam voluptatem magnam, recusandae mollitia laudantium
+        ut!</h1>
+</body>
+
+</html>
