@@ -3,10 +3,19 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
+    <title>responsive Web Test</title>
     <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=no'>
-    <link rel="stylesheet" href="styles/screen.css" media="screen">
-    <link rel="stylesheet" href="styles/print.css" media="print">
+    <style>
+        @media(max-width: 499px){
+            body {background-color: red;}
+        }
+        @media(min-width: 500px) and (max-width: 799px) {
+            body{background-color: green;}
+        }
+        @media(min-width: 800px){
+            body{background-color: blue;}
+        }
+    </style>
 </head>
 <body>
     <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea dolore, saepe sit, inventore mollitia velit aperiam facilis fuga esse cum ad sunt corrupti laboriosam doloribus, dolorem officia similique repudiandae consectetur!</h1>
