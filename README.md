@@ -6,79 +6,15 @@ HTML5 CSS, JS 학습용 리포지토리
 HTML 기본 학습
 
 ###### HTML이란?
-개요에 대해서 학습합니다
-1. Hyper Text Markup Langauge(HTML) 정의
-2. HTML 역사
-3. HTML5의 차이점
+
+
 ---
 첫번째 HTML (visual studio code 사용)
 
-[First HTML](https://github.com/guemin96/StudyHtml/commit/ae26ae796db1606af00404b311b6eab6bb8694a1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Hyper Text Markup Langauge(HTML) 정의
-  - _HTML_ _역사_
-  - __HTML5의 ~~차이점~~__
-
-- [X] 학습하기
-- [ ] 복습하기
-
-* [X] 학습하기
-* [ ] __복습하기__
-
-+ [X] _학습하기_
-+ [ ] ~~복습하기~~
-
-
-
-```C#
-using System.IO;
-
-namespace HelloworldApp
-  { public class program
-    { public static void Main(string[] args)
-      { console.WriteLine("Hello, World!");
-    //Hello World 10 WOW!!
-      }
-    }
-  }
- ```
- ![그림설명](https://github.com/guemin96/StudyHtml/blob/main/ref_image/console_result.png)
- ```
-
- 
- ````
-참조링크
 ----------
-- [naver](www.naver.com "네이버")
-- [Google](www.google.com "구글")
-
-
-
-머리글
-===
-
-다음글
-----
-
------------------------------------
-
 ## CSS3
-~css~ 기본 학습
-
->CSS is Cascading Style Sheets.
+CSS 기본 학습
 
 -----------------------------------
 
@@ -87,12 +23,10 @@ Javascript 기본 학습
 
 -----------------------------------
 
-## Responsibe Web
-응답형 웹 기본 학습
-
------------------------------------
 
 ## Project
 전체 통합 프로그램
+
+#### 반응형 웹 그리드 레이아웃 웹페이지 실습
 
 -----------------------------------
