@@ -11,17 +11,18 @@ float: left;
 
 .header-menu {
 float: right;
+margin-right: 3px;
 }
 
 .header-title {
 position: absolute;
-width: 200px;
+width: 600px;
 height: 40px;
-left: 50%;
+left: 45%;
 margin-left: -100px;
-background-image: url("../images/logo.png");
 background-repeat: no-repeat;
-text-indent: -9999px;
+color: lightslategray;
+
 /* indent는 들여쓰기 */
 }
 
@@ -48,8 +49,9 @@ display: none;
 background-color: #ffffff;
 margin-top: 10px;
 width: 100%;
-border: 1px solid #cccaca;
+border: 0px solid #cccaca;
 box-shadow: 0 2px 4px rgba(34, 25, 25, 0.5);
+
 
 }
 
