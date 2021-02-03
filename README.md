@@ -28,4 +28,4 @@ Javascript 기본 학습
 ## Github Markdown
 마크다운 기능 정리
 
--[바로가기](https://github.com/guemin96/Prac-)
+- [바로가기](https://github.com/guemin96/Prac-)
