@@ -115,7 +115,8 @@
 
 .user-information-image {
     float: left;
-    width: 70px;
+    display: inline-flex;
+    width: 200px;
 }
 
 .user-information-text {
