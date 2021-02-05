@@ -35,6 +35,18 @@
     margin-left: 10px;
     
 }
+/*메인 페이지 스타일*/
+#main-page{
+    width: 800px;
+    height: 1000px;
+    margin: 5px auto;
+
+}
+
+.page-img{
+    opacity: 0.5;
+}
+page-text
 
 /* 섹션 스타일 */
 #main-section {
