@@ -28,8 +28,9 @@ Javascript 기본 학습 <br>
 [Project](https://github.com/guemin96/StudyHtml/blob/main/ref_image/Main%20%ED%8E%98%EC%9D%B4%EC%A7%80.JPGl)
 
 #### 반응형 웹 그리드 레이아웃 웹페이지 실습
-
+- 중국 교환학생 모음집
 ![결과1](ref_image/중국페이지.JPG "중국 교환학생 모음집")
+- 호주 워홀 모음집
 ![워홀 페이지](https://user-images.githubusercontent.com/77951835/110288729-cdd26980-802b-11eb-8651-26bf7a00bfee.JPG)
 
 
