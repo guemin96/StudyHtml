@@ -70,3 +70,20 @@
 
 
 [코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/box_test.html)
+
+---------------------------------
+
+## 5. 배경 속성
+- 배경 속성 종류
+  - background - image : 배경 이미지 삽입
+  - background - size : 배경 이미지의 크기 지정
+  - background - repeat : 배경 이미지의 반복 형태 지정
+  - background - attachment : 배경 이미지의 부착 형태 지정
+  - background - position : 배경 이미지의 위치 지정
+  - background : 한 번에 모든 배경 속성 입력
+<br>
+
+<kbd>![배경 속성](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/8.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/background_test.html)
