@@ -25,7 +25,7 @@ Javascript 기본 학습 <br>
 
 ## Project
 전체 통합 프로그램 <br>
-[Project](https://github.com/guemin96/StudyHtml/tree/main/04_project)
+[Project](https://github.com/guemin96/StudyHtml/blob/main/04_project/Main.html)
 
 #### 반응형 웹 그리드 레이아웃 웹페이지 실습
 
