@@ -29,7 +29,7 @@ Javascript 기본 학습 <br>
 
 #### 반응형 웹 그리드 레이아웃 웹페이지 실습
 
-![결과1](/ref_image/result01.png "전체레이아웃")
+![결과1](https://github.com/guemin96/StudyHtml/blob/main/ref_image/Main%20%ED%8E%98%EC%9D%B4%EC%A7%80.JPGl)
 ![결과2](/ref_image/result02.png "팝업레이아웃")
 
 
