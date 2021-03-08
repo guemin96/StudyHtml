@@ -42,3 +42,31 @@
 
 
 [코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/div_test.html)
+
+---------------------------------
+
+## 4. 구조선택자
+- 구조 선택자
+  - 홀수와 짝수 위치를 판별하고 스타일을 적용
+<br>
+
+<kbd>![구조선택자](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/7.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/selector_struct_test.html)
+
+---------------------------------
+
+## 5. 박스 속성
+- 박스 속성 종류
+  - margin 속성 : 테두리와 다른 태그 사이의 테두리 바깥쪽 여백
+  - border 속성 : 테두리
+  - padding 속성 : 테두리와 글자 사이의 테두리 안쪽 여백, 배경색은 padding 영역까지만 적용
+  - width 속성 : 글자를 감싸는 영역의 가로 크기
+  - height 속성 : 글자를 감싸는 영역의 세로 크기
+<br>
+
+<kbd>![박스 속성](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/box.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/box_test.html)
