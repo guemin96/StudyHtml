@@ -73,7 +73,7 @@
 
 ---------------------------------
 
-## 5. 배경 속성
+## 6. 배경 속성
 - 배경 속성 종류
   - background - image : 배경 이미지 삽입
   - background - size : 배경 이미지의 크기 지정
@@ -87,3 +87,20 @@
 
 
 [코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/background_test.html)
+
+
+---------------------------------
+
+## 7. 위치 속성
+- 위치 속성 종류
+  - absolute : 절대 위치 좌표 설정
+  - fixed : 화면을 기준으로 절대 위치 좌표 설정
+  - relative : 초기 위치에서 상하좌우로 위치 이동
+  - static : 위쪽에서 아래쪽으로 순서대로 배치
+<br>
+
+<kbd>![위치 속성](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/6.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/position_2_test.html)
+
