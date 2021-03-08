@@ -23,7 +23,7 @@
   
 <br>
 
-<kbd>![기본 선택자 사진](https://user-images.githubusercontent.com/77951835/110293867-72f04080-8032-11eb-8257-b59b6dc86eca.JPG)<br></kbd>
+<kbd>02_CSS/사진/2.속성 선택자.PNG<br></kbd>
 
 
 -[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%86%8D%EC%84%B1%20%EC%84%A0%ED%83%9D%EC%9E%90_test.html)
