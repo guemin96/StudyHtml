@@ -104,3 +104,13 @@
 
 [코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/position_2_test.html)
 
+---------------------------------
+
+## 8. ONE True 레이아웃
+- 행을 독립적으로 생각해서 공간을 나눔
+<br>
+
+<kbd>![one true](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/4.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/layout_onetrue.html)
