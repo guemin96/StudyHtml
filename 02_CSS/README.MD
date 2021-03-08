@@ -42,3 +42,75 @@
 
 
 [코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/div_test.html)
+
+---------------------------------
+
+## 4. 구조선택자
+- 구조 선택자
+  - 홀수와 짝수 위치를 판별하고 스타일을 적용
+<br>
+
+<kbd>![구조선택자](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/7.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/selector_struct_test.html)
+
+---------------------------------
+
+## 5. 박스 속성
+- 박스 속성 종류
+  - margin 속성 : 테두리와 다른 태그 사이의 테두리 바깥쪽 여백
+  - border 속성 : 테두리
+  - padding 속성 : 테두리와 글자 사이의 테두리 안쪽 여백, 배경색은 padding 영역까지만 적용
+  - width 속성 : 글자를 감싸는 영역의 가로 크기
+  - height 속성 : 글자를 감싸는 영역의 세로 크기
+<br>
+
+<kbd>![박스 속성](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/box.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/box_test.html)
+
+---------------------------------
+
+## 6. 배경 속성
+- 배경 속성 종류
+  - background - image : 배경 이미지 삽입
+  - background - size : 배경 이미지의 크기 지정
+  - background - repeat : 배경 이미지의 반복 형태 지정
+  - background - attachment : 배경 이미지의 부착 형태 지정
+  - background - position : 배경 이미지의 위치 지정
+  - background : 한 번에 모든 배경 속성 입력
+<br>
+
+<kbd>![배경 속성](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/8.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/background_test.html)
+
+
+---------------------------------
+
+## 7. 위치 속성
+- 위치 속성 종류
+  - absolute : 절대 위치 좌표 설정
+  - fixed : 화면을 기준으로 절대 위치 좌표 설정
+  - relative : 초기 위치에서 상하좌우로 위치 이동
+  - static : 위쪽에서 아래쪽으로 순서대로 배치
+<br>
+
+<kbd>![위치 속성](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/6.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/position_2_test.html)
+
+---------------------------------
+
+## 8. ONE True 레이아웃
+- 행을 독립적으로 생각해서 공간을 나눔
+<br>
+
+<kbd>![one true](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/%EC%82%AC%EC%A7%84/4.PNG)<br></kbd>
+
+
+[코드보기](https://github.com/guemin96/StudyHtml/blob/main/02_CSS/layout_onetrue.html)
