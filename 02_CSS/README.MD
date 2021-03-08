@@ -8,6 +8,7 @@
   - 아이디 선택자 (#아이디) : 특정 id 속성이 있는 태그 선택,중복X 특정 태그 하나 선택
   - 클래스 선택자 (.클래스) : 특정 클래스가 있는 태그
 <br>
+
 <kbd>![속성 선택자 사진](https://user-images.githubusercontent.com/77951835/110290176-ce6bff80-802d-11eb-83a2-6fa76590fd77.JPG)<br></kbd>
 
 
